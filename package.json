@@ -1,6 +1,6 @@
 {
-  "name": "node-cli-demo",
-  "version": "1.0.0",
+  "name": "node-cli-demo-twolun",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "stuq": "index.js"  
+    "stuq": "index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/twolun/node-cli-demo/issues"
   },
-  "homepage": "https://github.com/twolun/node-cli-demo#readme"
+  "homepage": "https://github.com/twolun/node-cli-demo#readme",
+  "dependencies": {}
 }
